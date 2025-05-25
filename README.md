@@ -39,3 +39,28 @@ https://itexamanswers.net/3-11-3-module-quiz-network-security-concepts-answers.h
 ```
 
 
+ 4 module
+ ```
+//4.1.5 Check Your Understanding - Purpose of ACLs
+https://itexamanswers.net/4-1-5-check-your-understanding-purpose-of-acls-answers.html
+
+// 4.2 Wildcard Masks in ACLs
+https://itexamanswers.net/4-2-5-check-your-understanding-wildcard-masks-in-acls-answers.html
+
+//4.3 Guidelines for ACL Creation
+https://itexamanswers.net/4-3-3-check-your-understanding-guidelines-for-acl-creation-answers.html
+
+//4.4 Types of IPv4 ACLs
+https://itexamanswers.net/4-4-6-check-your-understanding-types-of-ipv4-acls-answers.html
+
+//4.5 Module Practice and Quiz
+https://itexamanswers.net/4-5-2-module-quiz-acl-concepts-answers.html
+ ```
+
+
+5 modul
+```
+//5.5 Module Practice and Quiz
+https://itexamanswers.net/5-5-4-module-quiz-acls-for-ipv4-configuration-answers.html
+
+```
