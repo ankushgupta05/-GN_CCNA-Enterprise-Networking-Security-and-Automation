@@ -4,4 +4,11 @@
 https://itexamanswers.net/ccna-1-v7-0-itn-practice-pt-skills-assessment-ptsa-answers.html
 // ID 02,12,32
 
+
+
+Switching, Routing, and Wireless Essentials ( Version 7.00) - SRWE Practice PT Skills Assessment (PTSA) - Part 1
+
+https://itexamanswers.net/ccna-2-srwe-practice-pt-skills-assessment-ptsa-part-1-answers.html
+//ID 121
+
 ```
