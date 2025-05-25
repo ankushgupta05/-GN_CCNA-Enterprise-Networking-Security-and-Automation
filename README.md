@@ -104,3 +104,31 @@ https://itexamanswers.net/7-6-3-module-quiz-wan-concepts-answers.html
 
 
 ```
+
+
+8 module
+```
+//8.1.5 Check Your Understanding - VPN Technology
+https://itexamanswers.net/8-1-5-check-your-understanding-vpn-technology-answers.html
+
+//8.2.8 Check Your Understanding - Types of VPNs
+https://itexamanswers.net/8-2-8-check-your-understanding-types-of-vpns-answers.html
+
+//8.3.9 Check Your Understanding - IPsec
+https://itexamanswers.net/8-3-9-check-your-understanding-ipsec-answers.html
+
+
+//8.4.2 Module Quiz - VPN and IPsec Concepts
+https://itexamanswers.net/8-4-2-module-quiz-vpn-and-ipsec-concepts-answers.html
+```
+
+# checkpoint 6-8
+```
+https://itexamanswers.net/ccna-3-v7-modules-6-8-wan-concepts-exam-answers.html
+```
+
+
+
+# 
+
+
