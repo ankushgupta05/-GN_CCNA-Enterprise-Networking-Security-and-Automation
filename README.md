@@ -269,4 +269,14 @@ https://itexamanswers.net/ccna-3-v7-modules-13-14-emerging-network-technologies-
 ```
 
 
+# CCNA (200-301) Certification Practice Exam
+```
+https://itexamanswers.net/ccna-200-301-certification-practice-exam-answers-ensa-v7-0.html
+```
+
+
+
+
+
+
 
