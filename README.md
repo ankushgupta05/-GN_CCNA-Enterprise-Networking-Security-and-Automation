@@ -31,6 +31,11 @@ https://itexamanswers.net/3-7-6-check-your-understanding-tcp-and-udp-vulnerabili
 //3.9 Network Security Best Practices
 https://itexamanswers.net/3-9-6-check-your-understanding-network-security-best-practices-answers.html
 
+//3.10 Cryptography
+https://itexamanswers.net/3-10-10-check-your-understanding-cryptography-answers.html
+
+3.11 Module Practice and Quiz (only 1 to 13 question)
+https://itexamanswers.net/3-11-3-module-quiz-network-security-concepts-answers.html
 ```
 
 
