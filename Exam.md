@@ -20,4 +20,7 @@ ID 0
 
 // part 3
 https://itexamanswers.net/ccna-3-ensa-practice-pt-skills-assessment-ptsa-answers.html
+
+//Quize Practce
+https://itexamanswers.net/ccna-3-version-7-00-ensa-practice-final-exam-answers.html
 ```
