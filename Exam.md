@@ -11,4 +11,9 @@ Switching, Routing, and Wireless Essentials ( Version 7.00) - SRWE Practice PT S
 https://itexamanswers.net/ccna-2-srwe-practice-pt-skills-assessment-ptsa-part-1-answers.html
 //ID 121
 
+
+
+// part 2
+https://itexamanswers.net/ccna-2-srwe-practice-pt-skills-assessment-ptsa-part-2-answers.html
+ID 0
 ```
