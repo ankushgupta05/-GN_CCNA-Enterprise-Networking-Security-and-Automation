@@ -154,7 +154,7 @@ https://itexamanswers.net/9-5-14-check-your-understanding-qos-implementation-tec
 https://itexamanswers.net/9-6-2-module-quiz-qos-concepts-answers.html
 ```
 
-# 10 modul
+# 10 module
 ```
 //10.2.5 Check Your Understanding - Compare CDP and LLDP
 https://itexamanswers.net/10-2-5-check-your-understanding-compare-cdp-and-lldp-answers.html
@@ -162,7 +162,37 @@ https://itexamanswers.net/10-2-5-check-your-understanding-compare-cdp-and-lldp-a
 //10.4.5 Check Your Understanding - SNMP Versions
 https://itexamanswers.net/10-4-5-check-your-understanding-snmp-versions-answers.html
 
+//10.5.6 Check Your Understanding - Syslog Operation
+https://itexamanswers.net/10-5-6-check-your-understanding-syslog-operation-answers.html
 
+//10.8 Module Practice and Quiz
+https://itexamanswers.net/10-8-4-module-quiz-network-management-answers.html
+
+//10.8 Module Practice and Quiz
+https://itexamanswers.net/10-8-4-module-quiz-network-management-answers.html
+```
+
+# 11 module
+```
+//
+11.1.8 Check Your Understanding - Hierarchical Networks
+https://itexamanswers.net/11-1-8-check-your-understanding-hierarchical-networks-answers.html
+
+//11.2.7 Check Your Understanding - Scalable Networks
+https://itexamanswers.net/11-2-7-check-your-understanding-scalable-networks-answers.html
+
+
+//11.3.8 Check Your Understanding - Switch Hardware
+https://itexamanswers.net/11-3-8-check-your-understanding-switch-hardware-answers.html
+
+//11.4.4 Check Your Understanding - Router Hardware
+https://itexamanswers.net/11-4-4-check-your-understanding-router-hardware-answers.html
+
+
+
+
+//11.5.3 Module Quiz - Network Design
+https://itexamanswers.net/11-5-3-module-quiz-network-design-answers.html
 ```
 
 
