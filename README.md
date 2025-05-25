@@ -64,3 +64,8 @@ https://itexamanswers.net/4-5-2-module-quiz-acl-concepts-answers.html
 https://itexamanswers.net/5-5-4-module-quiz-acls-for-ipv4-configuration-answers.html
 
 ```
+
+## checkpoint 3-5
+```
+https://itexamanswers.net/ccna-3-v7-modules-3-5-network-security-exam-answers.html
+```
