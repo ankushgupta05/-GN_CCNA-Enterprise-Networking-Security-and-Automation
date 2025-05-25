@@ -225,3 +225,45 @@ https://itexamanswers.net/12-6-4-module-quiz-network-troubleshooting-answers.htm
 https://itexamanswers.net/ccna-3-v7-modules-9-12-optimize-monitor-and-troubleshoot-networks-exam-answers.html
 
 ```
+
+
+# 13 module
+```
+//
+https://itexamanswers.net/13-1-6-check-your-understanding-cloud-computing-answers.html
+
+https://itexamanswers.net/13-2-7-check-your-understanding-virtualization-answers.html
+
+https://itexamanswers.net/13-3-4-check-your-understanding-virtual-network-infrastructure-answers.html
+
+https://itexamanswers.net/13-4-5-check-your-understanding-software-defined-networking-answers.html
+
+https://itexamanswers.net/13-4-5-check-your-understanding-software-defined-networking-answers.html
+
+https://itexamanswers.net/13-5-8-check-your-understanding-controllers-answers.html
+
+https://itexamanswers.net/13-6-3-module-quiz-network-virtualization-answers.html
+```
+
+# 14 module
+```
+https://itexamanswers.net/14-1-4-check-your-understanding-benefits-of-automation-answers.html
+
+https://itexamanswers.net/14-2-9-check-your-understanding-data-formats-answers.html
+
+https://itexamanswers.net/14-3-6-check-your-understanding-apis-answers.html
+
+https://itexamanswers.net/14-4-7-check-your-understanding-rest-answers.html
+
+https://itexamanswers.net/14-5-6-check-your-understanding-configuration-management-answers.html
+
+https://itexamanswers.net/14-6-10-check-your-understanding-ibn-and-cisco-dna-center-answers.html
+
+https://itexamanswers.net/14-7-2-module-quiz-network-automation-answers.html
+```
+
+
+
+
+
+
