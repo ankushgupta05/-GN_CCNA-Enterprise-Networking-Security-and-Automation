@@ -129,6 +129,40 @@ https://itexamanswers.net/ccna-3-v7-modules-6-8-wan-concepts-exam-answers.html
 
 
 
-# 
+9 module
+```
+//9.1.5 Check Your Understanding - Network Transmission Quality
+https://itexamanswers.net/9-1-5-check-your-understanding-network-transmission-quality-answers.html
+
+
+
+//9.2.6 Check Your Understanding - Traffic Characteristics
+https://itexamanswers.net/9-2-6-check-your-understanding-traffic-characteristics-answers.html
+
+//9.3.7 Check Your Understanding - Queuing Algorithms
+https://itexamanswers.net/9-3-7-check-your-understanding-queuing-algorithms-answers.html
+
+
+//9.4.6 Check Your Understanding - QoS Models
+https://itexamanswers.net/9-4-6-check-your-understanding-qos-models-answers.html
+
+
+//9.5.14 Check Your Understanding - QoS Implementation Techniques
+https://itexamanswers.net/9-5-14-check-your-understanding-qos-implementation-techniques-answers.html
+
+//9.6 Module Practice and Quiz
+https://itexamanswers.net/9-6-2-module-quiz-qos-concepts-answers.html
+```
+
+# 10 modul
+```
+//10.2.5 Check Your Understanding - Compare CDP and LLDP
+https://itexamanswers.net/10-2-5-check-your-understanding-compare-cdp-and-lldp-answers.html
+
+//10.4.5 Check Your Understanding - SNMP Versions
+https://itexamanswers.net/10-4-5-check-your-understanding-snmp-versions-answers.html
+
+
+```
 
 
