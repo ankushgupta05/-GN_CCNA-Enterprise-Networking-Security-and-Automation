@@ -16,4 +16,8 @@ https://itexamanswers.net/ccna-2-srwe-practice-pt-skills-assessment-ptsa-part-1-
 // part 2
 https://itexamanswers.net/ccna-2-srwe-practice-pt-skills-assessment-ptsa-part-2-answers.html
 ID 0
+
+
+// part 3
+https://itexamanswers.net/ccna-3-ensa-practice-pt-skills-assessment-ptsa-answers.html
 ```
