@@ -196,3 +196,32 @@ https://itexamanswers.net/11-5-3-module-quiz-network-design-answers.html
 ```
 
 
+
+# 12 module
+```
+// 12.1.9 Check Your Understanding - Network Documentation
+https://itexamanswers.net/12-1-9-check-your-understanding-network-documentation-answers.html
+
+
+
+//12.2.8 Check Your Understanding - Troubleshooting Process
+https://itexamanswers.net/12-2-8-check-your-understanding-troubleshooting-process-answers.html
+
+
+
+//12.3.5 Check Your Understanding - Troubleshooting Tools
+https://itexamanswers.net/12-3-5-check-your-understanding-troubleshooting-tools-answers.html
+
+//12.4.7 Check Your Understanding - Symptoms and Causes of Network Problems
+https://itexamanswers.net/12-4-7-check-your-understanding-symptoms-and-causes-of-network-problems-answers.html
+
+//12.6.4 Module Quiz - Network Troubleshooting
+https://itexamanswers.net/12-6-4-module-quiz-network-troubleshooting-answers.html
+
+```
+
+# checkpoint 9-12
+```
+https://itexamanswers.net/ccna-3-v7-modules-9-12-optimize-monitor-and-troubleshoot-networks-exam-answers.html
+
+```
