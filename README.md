@@ -263,7 +263,10 @@ https://itexamanswers.net/14-7-2-module-quiz-network-automation-answers.html
 ```
 
 
-
+# checkpoints 13_14
+```
+https://itexamanswers.net/ccna-3-v7-modules-13-14-emerging-network-technologies-exam-answers.html
+```
 
 
 
