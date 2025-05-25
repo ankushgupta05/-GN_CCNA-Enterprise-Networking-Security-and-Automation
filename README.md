@@ -69,3 +69,31 @@ https://itexamanswers.net/5-5-4-module-quiz-acls-for-ipv4-configuration-answers.
 ```
 https://itexamanswers.net/ccna-3-v7-modules-3-5-network-security-exam-answers.html
 ```
+
+## 6 module
+```
+//6.1.5 Check Your Understanding - NAT Characteristics
+https://itexamanswers.net/6-1-5-check-your-understanding-nat-characteristics-answers.html
+
+//6.3 NAT Advantages and Disadvantages
+https://itexamanswers.net/6-3-3-check-your-understanding-nat-advantages-and-disadvantages-answers.html
+
+//6.8 Module Practice and Quiz
+https://itexamanswers.net/6-8-4-module-quiz-nat-for-ipv4-answers.html
+
+```
+
+
+# 7 module
+```
+//7.1 Purpose of WANs
+https://itexamanswers.net/7-1-6-check-your-understanding-purpose-of-wans-answers.html
+
+//7.2 WAN Operations
+https://itexamanswers.net/7-2-9-check-your-understanding-wan-operations-answers.html
+
+//7.3 Traditional WAN Connectivity
+https://itexamanswers.net/7-3-5-check-your-understanding-traditional-wan-connectivity-answers.html
+
+
+```
