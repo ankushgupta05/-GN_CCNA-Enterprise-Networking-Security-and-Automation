@@ -24,3 +24,16 @@ https://itexamanswers.net/ccna-3-ensa-practice-pt-skills-assessment-ptsa-answers
 //Quize Practce
 https://itexamanswers.net/ccna-3-version-7-00-ensa-practice-final-exam-answers.html
 ```
+
+
+
+Final Exam 
+
+```
+Final Quize
+https://itexamanswers.net/ccna-3-v7-0-final-exam-answers-full-enterprise-networking-security-and-automation.html
+
+
+Final Practicle
+https://itexamanswers.net/ensa-version-7-00-final-pt-skills-assessment-exam-ptsa-answers.html
+```
