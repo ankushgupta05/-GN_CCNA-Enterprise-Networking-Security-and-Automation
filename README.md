@@ -95,5 +95,12 @@ https://itexamanswers.net/7-2-9-check-your-understanding-wan-operations-answers.
 //7.3 Traditional WAN Connectivity
 https://itexamanswers.net/7-3-5-check-your-understanding-traditional-wan-connectivity-answers.html
 
+//7.4 Modern WAN Connectivity
+https://itexamanswers.net/7-4-5-check-your-understanding-modern-wan-connectivity-answers.html
+
+
+//7.6.3 Module Quiz - WAN Concept
+https://itexamanswers.net/7-6-3-module-quiz-wan-concepts-answers.html
+
 
 ```
